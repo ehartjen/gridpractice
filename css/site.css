@@ -92,3 +92,7 @@ min-height: 300px;
 .section.bg-alt{
     background: #b4bac0;
 }
+
+main>.container {
+    padding: 60px 15px 0;
+}
